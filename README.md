@@ -21,7 +21,6 @@ For reference, the static design files are included in this repository. These fi
 <img width="389" alt="GameNexus-Black-3" src="https://github.com/user-attachments/assets/ca0d0f54-49ec-44bc-a993-d52f305aaf12">
 <img width="389" alt="GameNexus-Black-4" src="https://github.com/user-attachments/assets/c1f25d05-2fc4-42f4-88cd-bb305ec4408d">
 <img width="389" alt="GameNexus-Black-5" src="https://github.com/user-attachments/assets/3d974242-f26f-4af4-8d42-7ab41d537bbe">
-<img width="390" alt="GameNexus-White-1" src="https://github.com/user-attachments/assets/560b1c53-25c8-42a4-affd-66dae28cafa9">
 <img width="390" alt="GameNexus-White-2" src="https://github.com/user-attachments/assets/d1d7ebf6-dfc1-45d4-bbec-76c3be142465">
 
 ## How to Use
