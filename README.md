@@ -10,7 +10,7 @@ This repository contains the design files and prototype for the GameNexus projec
 
 You can view and interact with the Figma prototype of the GameNexus design using the following link:
 
-(https://www.figma.com/proto/your-prototype-link)](https://www.figma.com/proto/rW3V5njCwAwiTrUnTw6e12/GameNexus?node-id=1-1200&t=H2jOCzqEnxq2XHnI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+https://www.figma.com/proto/rW3V5njCwAwiTrUnTw6e12/GameNexus?node-id=1-1200&t=H2jOCzqEnxq2XHnI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
 
 ## Design Files
 
@@ -34,7 +34,7 @@ For reference, the static design files are included in this repository. These fi
 If you have any questions or feedback regarding the design, feel free to reach out:
 
 - **Email**: swaroopray11@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/yourprofile)](https://www.linkedin.com/in/swaroop-ray-05993a171/
+- **LinkedIn**: https://www.linkedin.com/in/swaroop-ray-05993a171/
 
 Thank you for checking out the GameNexus design!
 
